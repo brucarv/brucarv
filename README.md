@@ -8,7 +8,7 @@ I'm currently diving deep into **SQL, Python**, and **Data Analysis** while buil
 ### 📚 My Learning Stack
 
 <div align="left">
-  <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdc3f" alt="Python">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdc3f" alt="Python">
   <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
@@ -53,9 +53,9 @@ I'm currently diving deep into **SQL, Python**, and **Data Analysis** while buil
 ### 📱 How to Reach Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEUUSERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/bruna-carvalho-41389326b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:brucarv.nah@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
-  <a href="https://www.instagram.com/SEUUSERNAME/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/brufleur_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://medium.com/@seuusuario"><img src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.kaggle.com/SEUUSERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </div>
