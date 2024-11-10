@@ -36,18 +36,10 @@ I'm currently diving deep into **SQL, Python**, and **Data Analysis** while buil
 </div>
 
 <details> 
-  <summary><h2>📊 My Stats </h2></summary>
-
-  <!-- Streak Stats -->
-  <h3> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Fire.png" width="30"/> Streak Stats</h3>
-  <p>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=brucarv&theme=react&hide_border=true&background=1F222E&ring=8f5df4&fire=f643b1&currStreakLabel=ffabdf" alt="GitHub Streak for brucarv">
-    </a>
-  </p>
+  <summary><h2> 📊 My Stats </h2></summary>
 
   <!-- GitHub Profile Stats -->
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3> 💻 GitHub Profile Stats </h3>
   <img alt="brucarv's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=brucarv&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=8f5df4&icon_color=f643b1&text_color=#ffffff" height="192px"/>
   <img alt="brucarv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucarv&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=8f5df4&icon_color=f643b1&text_color=#ffffff&hide=Jupyter%20Notebook,Roff" height="192px"/>
   
