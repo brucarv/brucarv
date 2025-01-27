@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/user-attachments/assets/83d4c9ca-ad7f-48ae-9281-39993cbb2bc6" />
+<img width="100%" src="https://github.com/user-attachments/assets/6affd8bd-d3ca-49ce-8cc8-80ef624656e4" />
 
 <h3 align = "center"> Data Engineer • Backend Developer </h3>
 
